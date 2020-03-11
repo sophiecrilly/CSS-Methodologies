@@ -1,0 +1,53 @@
+/* Base */
+img {
+    max-width: 100%;
+}
+
+h1 {
+    font-family: sans-serif;
+}
+
+/* Layout */
+
+.col {
+    float: left;
+    padding: 10px;
+}
+
+.col1 {
+    width: 8.3333333%;
+}
+
+/* Modules */
+
+.submitButton {
+
+}
+
+.header {
+
+}
+
+.footer {
+
+}
+
+.card {
+
+}
+
+/* State */
+
+.listItemActive {
+    color: red;
+}
+
+.navOpen {
+
+}
+
+.navClosed {
+
+}
+
+/* Themes */
